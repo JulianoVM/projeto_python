@@ -1,6 +1,6 @@
 # Projeto da disciplina - Tópicos Especiais em Software.
 # Realizado durante os dias 22/09 ao 24/09 pelos alunos: Juliano Visoli Melato    &   Guilherme Assunção dos Santos.
-
+#para executar faça: pip install pandas openpyxl plot
 # Descrição do projeto: Utilizamos um dataset de cogumelos, onde existem vários tipos possíveis de combinações de cogumelos (mas não todas) classificados de várias maneiras distintas, com diversos atributos diferentes. O programa basicamente abre o arquivo .csv e o traduz para um DataFrame e o filtra para podermos pegar as informações e transformar em gráficos, diretamente pelo excel.
 
 # O trabalho foi muito complicado e muito demorado, mas conseguimos criar um programa que funcione, de certa forma.
